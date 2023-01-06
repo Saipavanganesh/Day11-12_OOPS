@@ -1,0 +1,4 @@
+Bajaj,100,340
+Reliance,179,783
+Tata,134,600
+Mahindra,200,786
